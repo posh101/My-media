@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Maya"
+    },
+    {
+      "name": "Catherine Beier",
+      "id": 3
+    },
+    {
+      "name": "Dawn Koelpin",
+      "id": 7
+    },
+    {
+      "name": "Keith McCullough III",
+      "id": 10
+    },
+    {
+      "name": "Lora Durgan",
+      "id": 18
+    }
+  ],
+  "photos": [],
+  "albums": []
+}
