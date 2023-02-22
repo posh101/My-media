@@ -5,22 +5,50 @@
       "name": "Maya"
     },
     {
-      "name": "Catherine Beier",
+      "name": "Roberta Parker",
       "id": 3
     },
     {
-      "name": "Dawn Koelpin",
-      "id": 7
+      "name": "Chelsea Kuhlman",
+      "id": 4
     },
     {
-      "name": "Keith McCullough III",
-      "id": 10
-    },
-    {
-      "name": "Lora Durgan",
-      "id": 18
+      "name": "Fred Ullrich",
+      "id": 5
     }
   ],
-  "photos": [],
-  "albums": []
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Recycled Rubber Shirt",
+      "id": 14
+    },
+    {
+      "userId": 3,
+      "title": "Small Fresh Keyboard",
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "title": "Licensed Cotton Bacon",
+      "id": 16
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 14,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7482",
+      "id": 6
+    },
+    {
+      "albumId": 14,
+      "url": "https://loremflickr.com/150/150/abstract?lock=28483",
+      "id": 8
+    },
+    {
+      "albumId": 14,
+      "url": "https://loremflickr.com/150/150/abstract?lock=4059",
+      "id": 9
+    }
+  ]
 }

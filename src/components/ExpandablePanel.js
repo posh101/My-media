@@ -13,7 +13,7 @@ function ExpandablePanel ({header, children}) {
 
     <div className="mb-2 border rounded">
        <div className="flex p-2 justify-between items-center">
-           <div className="flex flex-ro item-center justify-between">
+           <div className="flex flex-row item-center justify-between">
             {header}
            </div>
            <div onClick={handleClick} className="cursor-pointer">
